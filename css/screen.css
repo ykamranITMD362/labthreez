@@ -206,3 +206,15 @@ label {
 
 
 /* ===== STATE STYLES ======= */
+body {
+  background-color: #730929; 
+  font-family: "Tahoma", "Georgia", "Courier New", time, sans-serif;
+  margin: 0;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding: 0;
+}
+h1 {
+  font-size: 2em; 
+}
