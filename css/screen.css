@@ -218,3 +218,23 @@ body {
 h1 {
   font-size: 2em; 
 }
+h1, p, li {
+	 margin-bottom: 20px; 
+}
+
+main {
+  text-align: center;
+  margin-top: 20px; 
+}
+
+form {
+  width: 100%; 
+  padding: 12px; 
+  border: 1px solid #ccc; 
+  border-radius: 4px; 
+  box-sizing: border-box; 
+  margin-top: 6px; 
+  margin-bottom: 16px; 
+  resize: vertical
+  background-color: #1d155c;
+}
