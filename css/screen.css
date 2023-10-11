@@ -207,7 +207,7 @@ label {
 
 /* ===== STATE STYLES ======= */
 body {
-  background-color: #730929; 
+  background-color: #211e1e; 
   font-family: "Tahoma", "Georgia", "Courier New", time, sans-serif;
   margin: 0;
   justify-content: center;
@@ -228,7 +228,7 @@ main {
 }
 
 form {
-  width: 100%; 
+  width: 80%; 
   padding: 12px; 
   border: 1px solid #ccc; 
   border-radius: 4px; 
@@ -246,7 +246,7 @@ label {
 }
 
 input[type="email"] {
-  width: 100%;
+  width: 80%;
   padding: 15px;
   border: 1px solid #ccc;
   border-radius: 5px;
